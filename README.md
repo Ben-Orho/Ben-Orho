@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### What are my current roles in tech
+#### What are my current roles in Tech
 
 
    { Web Developer, Frontend Engineer, fullstack web developer } 
@@ -9,10 +9,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on a linkedin-clone app
+- 🌱 I’m currently learning Data structure and algorithm
+- 👯 I’m looking to collaborate on some full stack projects
+
 
 i
 - 💬 Ask me about ...
