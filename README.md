@@ -18,5 +18,5 @@ i
 - 📫 How to reach me: 
               Email: ejirorhorhaghe@gmail.com
 - 😄 Pronouns: HE/ HIM/ HIS
-- ⚡ Fun fact: .
+- ⚡ Fun fact: I love gaming and music
 
