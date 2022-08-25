@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a linkedin-clone app
-- 🌱 I’m currently learning Data structure and algorithm with Java
+- 🌱 I’m currently learning Data structure and algorithm with JavaScript
 - 👯 I’m looking to collaborate on some full stack projects
 
 
