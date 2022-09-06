@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 i
 - 💬 Ask me about,
 - 📫 How to reach me: 
-              <a href='ejiroorhorhaghe@gmail.com'>EmailMe!</a>
+              <a href='https://accounts.google.com/b/0/AddMailService'>EmailMe!</a>
 - 😄 Pronouns: HE/ HIM/ HIS
 - ⚡ Fun fact: I love gaming and music
 
