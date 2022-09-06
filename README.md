@@ -10,13 +10,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a linkedin-clone app
 - 🌱 I’m currently learning Data structure and algorithm with JavaScript
-- 👯 I’m looking to collaborate on some full stack projects
+- 👯 I’m looking to collaborate on some full stack (web, webapp) projects
+-  🤹🏾‍♀️ Major Tech Skills: ReactJS ecosystem, HTML, CSS, SCSS, Tailwind, JavaScript, APIs, NodeJs(Express), Firebase, TypeScript, SQL, MongoDB.
 
 
 i
 - 💬 Ask me about,
 - 📫 How to reach me: 
-              Email: ejirorhorhaghe@gmail.com
+              <a href='ejiroorhorhaghe@gmail.com'>EmailMe!</a>
 - 😄 Pronouns: HE/ HIM/ HIS
 - ⚡ Fun fact: I love gaming and music
 
