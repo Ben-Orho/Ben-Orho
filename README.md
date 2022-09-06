@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a linkedin-clone app
+- 🔭 I’m currently working on a linkedin-clone web app
 - 🌱 I’m currently learning Data structure and algorithm with JavaScript
 - 👯 I’m looking to collaborate on some full stack (web, webapp) projects
 -  🤹🏾‍♀️ Major Tech Skills: ReactJS ecosystem, HTML, CSS, SCSS, Tailwind, JavaScript, APIs, NodeJs(Express), Firebase, TypeScript, SQL, MongoDB.
