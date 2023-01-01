@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -  🤹🏾‍♀️ Major Tech Skills: ReactJS ecosystem, HTML, CSS, SCSS, Tailwind, JavaScript, APIs, NodeJs(Express), Firebase, TypeScript, SQL, MongoDB, python.
 
 
-i
+
 - 💬 Ask me about,
 - 📫 How to reach me: 
               <a href='#'>ejiroorhorhaghe@gmail.com</a>
