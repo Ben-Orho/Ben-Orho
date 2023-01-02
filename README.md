@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on some full stack (web, webapp) projects
 - I'm currently learning backend web development with the use of python
 -  🤹🏾‍♀️ Major Tech Skills: ReactJS ecosystem, HTML, CSS, SCSS, Tailwind, JavaScript, APIs, NodeJs(Express), Firebase, TypeScript, SQL, MongoDB, python.
+-  I'm also currently enrolled with microverse leanrning software developement
 
 
 
