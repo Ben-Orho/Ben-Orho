@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
               <a href='#'>ejiroorhorhaghe@gmail.com</a>
 - 😄 Pronouns: HE/ HIM/ HIS
-- ⚡ Fun fact: I love Football and Music.
+- ⚡ Fun fact: I love Football and Yeat.
 
